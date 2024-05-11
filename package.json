@@ -11,6 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.5.0",
+    "mongoose": "^8.3.4",
     "node-fetch": "^3.2.6"
   }
 }
